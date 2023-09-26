@@ -1,5 +1,5 @@
 
-# $${\text{FISA}}$$
+# FISA
 ### The implementation of pseudo value-based fair and interpretable deep survival models FIDP and FIPNAM.
 
 <p align="center">
