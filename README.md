@@ -33,7 +33,7 @@ Download a local copy of FISA_KDD22 and install from the directory:
 	conda activate FISA
 
 ## Required Packages
-* PyTorch (1.13.1)
+* PyTorch
 * pycox
 * scikit-survival 
 * scikit-learn
